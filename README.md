@@ -5,7 +5,12 @@
 https://www.icloud.com/shortcuts/1660d6f7736e4c4eadb159746030328f
 <br>
 GoogleのBardをiPhoneの「ショートカット」アプリ経由で実行することができる簡単なPythonスクリプトです。<br>
-使用するためにはBardのtokenが必要になります。無料です。<br>
+bardapiモジュールが必要です。以下のコマンドでインストールしてください。<br>
+```
+pip install bardapi
+```
+
+また、使用するためにはBardのtokenが必要になります。無料です。<br>
 まずBardの公式ページ（ https://bard.google.com ） に行きます。
 <br>
 次にデベロッパーツールを開きます。
