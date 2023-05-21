@@ -1,0 +1,2 @@
+# Bard_With_Shortcut
+GoogleのBardをiPhoneの「ショートカット」アプリ経由で実行することができる簡単なPythonスクリプトです。
