@@ -1,4 +1,9 @@
 # Bard_With_Shortcut
+
+このコードはiPhoneの「ショートカット」アプリを使用することを前提としています。他の方法は試したことがないので悪しからず。<br>
+ショートカットのリンクは↓<br>
+https://www.icloud.com/shortcuts/1660d6f7736e4c4eadb159746030328f
+<br>
 GoogleのBardをiPhoneの「ショートカット」アプリ経由で実行することができる簡単なPythonスクリプトです。<br>
 使用するためにはBardのtokenが必要になります。無料です。<br>
 まずBardの公式ページ（ https://bard.google.com ） に行きます。
